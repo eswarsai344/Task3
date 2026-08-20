@@ -190,6 +190,6 @@ This project successfully demonstrates the design and simulation of fundamental 
 ---
 ##Author
 
-N Sai Srinivasa Ganesh
+MANDALA BALAJI SAI ESWAR REDDY 
 
 VLSI Intern
